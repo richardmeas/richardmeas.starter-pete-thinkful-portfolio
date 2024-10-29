@@ -177,7 +177,8 @@ header nav a:hover {
 
 #contact {
   text-align: center;
-  margin: 40px auto;
+  max-width: 600px;
+  margin: 0 auto;
   padding: 50px;
   background-color: #f4f1de;
 }
