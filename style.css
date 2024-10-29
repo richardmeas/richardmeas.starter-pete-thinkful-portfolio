@@ -114,7 +114,6 @@ header nav a:hover {
   margin-bottom: 40px; /* Add spacing below the Portfolio header */
   background-color: #f4f1de; /* Optional: match the background color */
   padding-bottom: 20px; /* Optional: padding to match design */
-  border-top: 2px solid black; /* Add a solid black line above */
   padding-top: 20px; /* Add some space below the line */
 }
 
@@ -171,7 +170,6 @@ header nav a:hover {
   margin-bottom: 40px; /* Add spacing below the Portfolio header */
   background-color: #f4f1de; /* Optional: match the background color */
   padding-bottom: 20px; /* Optional: padding to match design */
-  border-top: 2px solid black; /* Add a solid black line above */
   padding-top: 20px; /* Add some space below the line */
 }
 
