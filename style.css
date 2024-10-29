@@ -129,7 +129,7 @@ header nav a:hover {
 .portfolio-item {
   text-align: center;
   flex: 1; /* Allow items to equally take up space */
-  width: 30%;
+  margin: 0 5px;
 }
 
 .portfolio-item img {
