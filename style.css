@@ -233,5 +233,5 @@ footer p {
   width: 50%;       /* Make the line cover 50% of the container width */
   margin: 20px auto; /* Center the line with auto margin */
   border: none;      /* Remove default border */
-  border-top: 2px solid black; /* Customize the line style */
+  border-bottom: 2px solid black; /* Customize the line style */
 }
